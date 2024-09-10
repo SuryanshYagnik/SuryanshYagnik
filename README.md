@@ -10,6 +10,10 @@ Data Science Enthusiast
 * 🤝  I'm open to collaborating on ML projects
 * ⚡  I am a professional Taekwondo Player
 
+  <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohitvdx&color=blueviolet)
+
 ### Skills
 
 
