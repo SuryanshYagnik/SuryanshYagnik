@@ -12,7 +12,7 @@ Data Science Enthusiast
 
   <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohitvdx&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SuryanshYagnik&color=blueviolet)
 
 ### Skills
 
@@ -28,8 +28,13 @@ Data Science Enthusiast
 
 ### Badges
 
-<b>My GitHub Stats</b>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuryanshYagnik&theme=dark&border_radius=50)](https://git.io/streak-stats)
 
-<a href="http://www.github.com/SuryanshYagnik"><img src="https://github-readme-stats.vercel.app/api?username=SuryanshYagnik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SuryanshYagnik's GitHub stats" /></a>
+### Languages 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuryanshYagnik)](https://github.com/SuryanshYagnik/github-readme-stats)
 
-<a href="https://github.com/SuryanshYagnik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryanshYagnik&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🏆 Achievements
+
+- **SIH'23 Finalist**: Innovating solutions for a better tomorrow 🚀
+- **Scale +91 Finalist**: Fintech Festival 2024
+    
