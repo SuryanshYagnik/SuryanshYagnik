@@ -36,5 +36,5 @@ Data Science Enthusiast
 ## 🏆 Achievements
 
 - **SIH'23 Finalist**: Innovating solutions for a better tomorrow 🚀
-- **Scale +91 Finalist**: Fintech Festival 2024
+- **Scale +91 Finalist**: Belnding Finance and Technology
     
