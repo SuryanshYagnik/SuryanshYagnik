@@ -6,7 +6,7 @@ Data Science Enthusiast
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [yagniksuryansh@gmail.com](mailto:yagniksuryansh@gmail.com)
-* 🧠  I'm learning Computer Vision, Reinforcement Learning
+* 🧠  I'm learning Computer Vision & MLops
 * 🤝  I'm open to collaborating on ML projects
 * ⚡  I am a professional Taekwondo Player
 
