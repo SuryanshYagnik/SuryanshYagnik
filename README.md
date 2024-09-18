@@ -53,4 +53,10 @@ of 95+%, working towards GNN. 🏎️
 - **SIH'23 Finalist**: Innovating solutions for a better tomorrow 🚀
 - **Scale +91 Finalist**: Belnding Finance and Technology
 - **Amazon ML Challenge**: Ranked among Top-250 teams amid 75000+ teams
+
+---
+
+<p align="center" style="font-size: 0.4rem;">
+  <i>|| ONE TODAY IS WORTH TWO TOMORROW ||</i>
+</p>
     
