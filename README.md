@@ -37,4 +37,5 @@ Data Science Enthusiast
 
 - **SIH'23 Finalist**: Innovating solutions for a better tomorrow 🚀
 - **Scale +91 Finalist**: Belnding Finance and Technology
+- **Amazon ML Challenge**: Ranked among Top-250 teams amid 75000+ teams
     
