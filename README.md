@@ -16,7 +16,7 @@ Data Science Enthusiast
 
 ## 💼 Work Experience
 
-### 🚀 Research Consultant @ WorldQuant
+### 🚀 Research Consultant @ WorldQuant LLC
 *Mar 2024 - Present*
 - Leveraged WorldQuant Brain platform to build and stimulate alphas over 10000+ datafields and 8+ regions🌀
 - Deployed Brain API to conduct machine research on alphas and automate requests to test alpha expressions over a
