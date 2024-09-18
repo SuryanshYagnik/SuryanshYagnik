@@ -14,6 +14,21 @@ Data Science Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SuryanshYagnik&color=blueviolet)
 
+## 💼 Work Experience
+
+### 🚀 Research Consultant @ WorldQuant
+*Mar 2024 - Present*
+- Leveraged WorldQuant Brain platform to build and stimulate alphas over 10000+ datafields and 8+ regions🌀
+- Deployed Brain API to conduct machine research on alphas and automate requests to test alpha expressions over a
+range of values 👨‍🍳
+
+### ⚡ Research Intern @ IIIT Bhopal
+*Jan 2024 - Apr 2024*
+- Researched advance Deep Learning techniques to detect plant leaf diseases, Implemented and analyzed Transfer
+Learning models like VGG-16, ResNet-50, & AlexNet🧈
+- Conducted image data analysis using CNN models to diagnose plant diseases, achieving a classification accuracy rate
+of 95+%, working towards GNN. 🏎️
+
 ### Skills
 
 
