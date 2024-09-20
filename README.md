@@ -27,7 +27,7 @@ range of values 👨‍🍳
 - Researched advance Deep Learning techniques to detect plant leaf diseases, Implemented and analyzed Transfer
 Learning models like VGG-16, ResNet-50, & AlexNet🧈
 - Conducted image data analysis using CNN models to diagnose plant diseases, achieving a classification accuracy rate
-of 95+%, working towards GNN. 🏎️
+of 95+%, working towards GNN 🏎️
 
 ### Skills
 
