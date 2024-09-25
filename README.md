@@ -16,6 +16,13 @@ Data Science Enthusiast
 
 ## 💼 Work Experience
 
+### 💡University of Galway, Ireland
+ *Mar 2024- Present*
+ - Assisted research on the application of FATE-LLM, an industrial-grade federated learning framework for LLMs,
+ tailored for the medical sector
+ - Explored parameter-efficient fine-tuning methods like LoRA and P-Tuning-v2 to reduce computational resources
+ while adapting models to healthcare-specific tasks
+
 ### 🚀 Research Consultant @ WorldQuant LLC
 *Mar 2024 - Present*
 - Leveraged WorldQuant Brain platform to build and stimulate alphas over 10000+ datafields and 8+ regions🌀
