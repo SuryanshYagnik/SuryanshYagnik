@@ -16,7 +16,7 @@ Data Science Enthusiast
 
 ## 💼 Work Experience
 
-### 💡Reserch Intern @ University of Galway, Ireland
+### 💡Research Intern @ University of Galway, Ireland
  *Mar 2024- Present*
  - Assisted research on the application of FATE-LLM, an industrial-grade federated learning framework for LLMs,
  tailored for the medical sector
