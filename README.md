@@ -16,8 +16,13 @@ Data Science Enthusiast
 
 ## 💼 Work Experience
 
+### 🚀Research Intern @ Artificial Intelligence Institute of South Carolina 
+*Oct 2024- Present*
+- Collaborating with experts from Amazon and Meta to design scalable solutions, focusing on developing techniques
+to efficiently remove specific data from trained models with Machine Unlearning
+
 ### 💡Research Intern @ University of Galway, Ireland
- *Mar 2024- Present*
+ *Oct 2024- Present*
  - Assisted research on the application of FATE-LLM, an industrial-grade federated learning framework for LLMs,
  tailored for the medical sector
  - Explored parameter-efficient fine-tuning methods like LoRA and P-Tuning-v2 to reduce computational resources
