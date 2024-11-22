@@ -47,7 +47,7 @@ Data Science Enthusiast
 
 ## 🏆 Achievements
 
-- **SIH Finalist(x2)**: Innovating solutions for a better tomorrow 🚀
+- **SIH Finalist (x2)**: Innovating solutions for a better tomorrow 🚀
 - **Scale +91 Finalist**: Belnding Finance and Technology
 - **Amazon ML Challenge**: Ranked among Top-250 teams amid 75000+ teams
 - **JEE ADVANCED AIR 15673**: Because why not add a sprinkle of academic brilliance? 🧠
