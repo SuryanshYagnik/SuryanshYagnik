@@ -16,30 +16,15 @@ Data Science Enthusiast
 
 ## 💼 Work Experience
 
-### 🚀Research Intern @ Artificial Intelligence Institute of South Carolina 
-*Oct 2024- Present*
-- Collaborating with experts from Amazon and Meta to design scalable solutions, focusing on developing techniques
-to efficiently remove specific data from trained models with Machine Unlearning
+### - Research Intern @ Artificial Intelligence Institute of South Carolina 
 
-### 💡Research Intern @ University of Galway, Ireland
- *Oct 2024- Present*
- - Assisted research on the application of FATE-LLM, an industrial-grade federated learning framework for LLMs,
- tailored for the medical sector
- - Explored parameter-efficient fine-tuning methods like LoRA and P-Tuning-v2 to reduce computational resources
- while adapting models to healthcare-specific tasks
+### - Research Intern @ University of Galway, Ireland
 
-### 🚀 Research Consultant @ WorldQuant LLC
-*Mar 2024 - Present*
-- Leveraged WorldQuant Brain platform to build and stimulate alphas over 10000+ datafields and 8+ regions🌀
-- Deployed Brain API to conduct machine research on alphas and automate requests to test alpha expressions over a
-range of values 👨‍🍳
+### - Machine Learning Intern @ Qriocity
 
-### ⚡ Research Intern @ IIIT Bhopal
-*Jan 2024 - Apr 2024*
-- Researched advance Deep Learning techniques to detect plant leaf diseases, Implemented and analyzed Transfer
-Learning models like VGG-16, ResNet-50, & AlexNet🧈
-- Conducted image data analysis using CNN models to diagnose plant diseases, achieving a classification accuracy rate
-of 95+%, working towards GNN 🏎️
+### - Research Consultant @ WorldQuant LLC
+
+### - Research Intern @ IIIT Bhopal
 
 ### Skills
 
