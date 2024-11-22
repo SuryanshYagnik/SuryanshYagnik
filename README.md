@@ -40,17 +40,26 @@ Data Science Enthusiast
 
 ### Badges
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuryanshYagnik&theme=dark&border_radius=50)](https://git.io/streak-stats)
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=SuryanshYagnik&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=SuryanshYagnik&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
-### Languages 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuryanshYagnik)](https://github.com/SuryanshYagnik/github-readme-stats)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=SuryanshYagnik&theme=radical" />
+    <img height="97" src="https://github-profile-trophy.vercel.app/?username=SuryanshYagnik&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1" />
+</div>
+
+<!-- Add spacing -->
+<div style="margin-top: 20px;"></div>
 
 ## 🏆 Achievements
-
-- **SIH Finalist (x2)**: Innovating solutions for a better tomorrow 🚀
-- **Scale +91 Finalist**: Belnding Finance and Technology
-- **Amazon ML Challenge**: Ranked among Top-250 teams amid 75000+ teams
-- **JEE ADVANCED AIR 15673**: Because why not add a sprinkle of academic brilliance? 🧠
+- **SIH Finalist (x2):** Innovating solutions for a better tomorrow 🚀  
+- **Scale +91 Finalist:** Blending Finance and Technology  
+- **Amazon ML Challenge:** Ranked among Top-250 teams amid 75,000+ teams  
+- **JEE ADVANCED AIR 15673:** Because why not add a sprinkle of academic brilliance? 🧠
 
 ---
 
