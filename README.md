@@ -54,7 +54,7 @@ Data Science Enthusiast
   <a href="https://www.kaggle.com/suryanshyagnik" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="32" height="32" alt="Kaggle" /> 
   </a> 
-  <a href="[https://leetcode.com/suryanshyagnik/](https://leetcode.com/u/Novaspree/)" target="_blank" rel="noreferrer"> 
+  <a href="https://leetcode.com/u/Novaspree/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" alt="LeetCode" /> 
   </a> 
 </p>
