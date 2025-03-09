@@ -15,6 +15,7 @@ Data Science Enthusiast
 ![Profile Views](https://komarev.com/ghpvc/?username=SuryanshYagnik&color=blueviolet)
 
 ## 💼 Work Experience
+### - Research Intern @ Northeastern University, Seattle, Washington, US
 
 ### - Research Intern @ Artificial Intelligence Institute of South Carolina 
 
